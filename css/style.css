@@ -124,6 +124,7 @@ header h1 {
 .text-alignment {
   margin-left: 100px;
   margin-top: -10px;
+  margin-bottom: 20px;
 }
 
 .profile-content {
@@ -144,6 +145,9 @@ header h1 {
   background-size: cover;
   background-position: center;
   border-radius: 50%;
+}
+.profile-text {
+  margin-top: 10px;
 }
 
 .sub-bab {
